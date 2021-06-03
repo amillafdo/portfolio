@@ -40,7 +40,7 @@ export default function Footer() {
                 <i className="fa fa-linkedin-square"></i>
               </a>
               <a
-                href="https://instagram.com/pasan_kottearachchi?igshid=1658xcumq4pw5"
+                href="https://www.instagram.com/amillafdo/"
                 style={{ color: "white" ,paddingRight:"5px"}}
                 className="social-icons"
               >

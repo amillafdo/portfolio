@@ -9,7 +9,7 @@ export default function Works() {
         {
             id: "1",
             icon: "./assets/globe.png",
-            title: "Web Developement",
+            title: "Web Design",
             desc:
               "I have a personal interest in developing fully responsive web applications by combining latest technologies like React JS.",
             img:
